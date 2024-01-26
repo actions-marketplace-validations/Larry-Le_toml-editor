@@ -1,5 +1,5 @@
-name: "toml editor"
-description: "edit a toml file"
+name: "toml editor v0.1"
+description: "edit a toml file:: Just added ssl verrification false"
 author: "ciii"
 branding:
   icon: "file"
